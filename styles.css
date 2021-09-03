@@ -12,6 +12,7 @@ ul {
   padding: 30px;
   background-color: yellow;
   margin: 40px;
+  border-radius: 20px;
 }
 p {
   color: red;
