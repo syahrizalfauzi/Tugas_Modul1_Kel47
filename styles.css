@@ -3,12 +3,17 @@ body {
 }
 h1 {
   color: blue;
+  font-family: verdana;
 }
 ul {
-  color:purple
+  color:purple;
+  font-family: arial;
+  border: 20px groove lime;
+  padding: 30px;
 }
 p {
   color: red;
+  border: 5px dashed gray;
 }
 button {
   color: green
